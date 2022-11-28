@@ -1,0 +1,14 @@
+GIT
+(solo se hace una vez)
+git config --global user.name "Tu nombre"
+git config --global user.email tucorreo@gmail.commit
+
+git config --global --list
+
+
+
+1) git init (inicia el git en la carpeta seleccionada)
+2) git add. (añade los archivos a la terminal)
+3) git commit -m "Mensaje" (se da un mensaje a la terminal)
+4) git remote add origin https://github.com/Darsus1/GitHub.git
+5) git push -u origin master (*SOLO SE HACE UNA VEZ* para agregar el token de git hub)
